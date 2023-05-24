@@ -1,6 +1,13 @@
-# Deep-Learning
+# Deep learning(keras) Image Classification
 
+- Utilized the CIFAR-10 dataset, comprising 60,000 32x32 color images divided into 10 classes, for image classification.
 
-I employed CIFAR-10, a widely utilized image classification dataset comprising 60,000 32x32 color images divided into 10 classes.
-Each class contains 6,000 images. The dataset is split into 50,000 training images and 10,000 testing images, encompassing categories such as airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck. 
-CIFAR-10 serves as a prevalent benchmark for evaluating image classification algorithms and deep learning models.
+- Implemented a Neural Network model using Keras, specifying layers, activations, and optimizer.
+
+- Monitored and analyzed the learning progress of the model using Tensorboard, examining metrics like accuracy and loss.
+
+- Trained the model on the training images to enhance predictive capabilities.
+
+- Assessed the model's performance using a confusion matrix, comparing predictions to ground truth labels.
+
+- Contributed to the advancement of image classification algorithms and deep learning techniques through the use of Keras, Tensorboard, and the evaluation of   the confusion matrix.
